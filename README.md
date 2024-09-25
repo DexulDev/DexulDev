@@ -7,7 +7,7 @@
   <li>🎈 <strong> Looking for backend. <br> 
   <li>🔉 <u> I'm trying to get more active.</u> <br>
   <li>👨🏻‍💻 <u> C++/Java/PHP enjoyer.</u> <br>
-  <li>🧠 <u> I like to propose brilliant, effective and creative resolutions.</u> <br>
+  <li>🧠 <u> I like to propose brilliant, effective and creative solutions.</u> <br>
   <li>🌐 <u> ENG/ESP/FR.</u> <br>
   <li>📍 México. <br> </strong>
 </ul>

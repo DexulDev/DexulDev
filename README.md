@@ -3,7 +3,7 @@
 <h2>- A 17 y/o student. 📖🚀</h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dexuldev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/?>
 <ul>
-  <li>🎈 <strong> Looking for backend. <br> 
+  <li>🎈 <strong> Looking for a backend career. <br> 
   <li>🔉 <u> I'm trying to get more active.</u> <br>
   <li>👨🏻‍💻 <u> C++/Java/PHP enjoyer.</u> <br>
   <li>🧠 <u> I like to propose brilliant, effective and creative solutions.</u> <br>

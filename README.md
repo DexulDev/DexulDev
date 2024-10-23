@@ -5,7 +5,7 @@
 <ul>
   <li>🎈 <strong> Looking for a backend career. <br> 
   <li>🔉 <u> I'm trying to get more active.</u> <br>
-  <li>👨🏻‍💻 <u> C++/Java/PHP enjoyer.</u> <br>
+  <li>👨🏻‍💻 <u> JavaScript/C++/PHP enjoyer.</u> <br>
   <li>🧠 <u> I like to propose brilliant, effective and creative solutions.</u> <br>
   <li>🌐 <u> ENG/ESP/FR.</u> <br>
   <li>📍 México. <br> </strong>
@@ -36,7 +36,7 @@ My discord btw: Dexul#1523
 <h2>
   What I am currently learning / improving on:
   <p></p>
-  <img src="https://img.shields.io/static/v1?label=Laravel&message=WebSockets&color=red?style=plastic&logo=laravel" />
-  <img src="https://img.shields.io/static/v1?label=Vue.JS&message=Perfecting skills&color=skyblue?style=plastic&logo=Vue.JS" />
+  <img src="https://img.shields.io/static/v1?label=Laravel&message=Perfecting WebSockets&color=red?style=plastic&logo=laravel" />
+  <img src="https://img.shields.io/static/v1?label=Vue.JS&message=Learning&color=skyblue?style=plastic&logo=Vue.JS" />
 </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dexuldev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>

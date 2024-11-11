@@ -13,17 +13,17 @@
 <br>
 <p></p>
 <h2>Languajes and tools <br>
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px"/>
+<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="26px">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="26px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="26px">
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="26px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="26px"/>
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="26px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="26px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="26px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="26px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="26px"/>
 <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" width="26px"/>
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px"/>
 </h2> 
 
 <h2>Connect with me:

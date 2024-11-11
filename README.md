@@ -36,7 +36,8 @@ My discord btw: Dexul#1523
 <h2>
   What I am currently learning / improving on:
   <p></p>
-  <img src="https://img.shields.io/static/v1?label=Laravel&message=Perfecting Tests&color=red?style=plastic&logo=laravel" />
-  <img src="https://img.shields.io/static/v1?label=Vue.JS&message=Learning&color=skyblue?style=plastic&logo=Vue.JS" />
+  <img src="https://img.shields.io/static/v1?label=Laravel&message=Creating automated tests&color=red?style=plastic&logo=laravel" />
+  <img src="https://img.shields.io/static/v1?label=Vue.JS&message=General learning&color=skyblue?style=plastic&logo=Vue.JS" />
+  <img src="https://img.shields.io/static/v1?label=MySQL&message=separate instructions&color=skyblue?style=plastic&logo=MySQL" />
 </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dexuldev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>

@@ -5,7 +5,7 @@
 <ul>
   <li>🎈 <strong> Looking for a backend career. <br> 
   <li>🔉 <u> I'm trying to get more active.</u> <br>
-  <li>👨🏻‍💻 <u> JavaScript/C++/PHP enjoyer.</u> <br>
+  <li>👨🏻‍💻 <u> PHP enjoyer.</u> <br>
   <li>🧠 <u> I like to propose brilliant, effective and creative solutions.</u> <br>
   <li>🌐 <u> ENG/ESP/FR.</u> <br>
   <li>📍 México. <br> </strong>

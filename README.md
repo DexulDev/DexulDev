@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-## An enthusiast Backend Developer 📖🚀
+## An enthusiast Backend Developer📖🚀
 
 #### @Unillantas Backend Developer
 
@@ -16,7 +16,8 @@
 - 👨🏻‍💻 **Laravel enjoyer.**  
 - 🧠 **I like to propose brilliant, effective, and creative solutions.**  
 - 🌐 **Languages: ENG/ESP/FR.**  
-- 📍 **Oaxaca, México.**  
+- 📍 **Oaxaca, México.**
+<br>
 
 </td>
 <td>

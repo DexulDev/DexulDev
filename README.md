@@ -28,7 +28,7 @@
 
 ---
   
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="22px" alt="Laravel"/>  
@@ -47,6 +47,7 @@
 ---
 
 ## What I am currently learning / improving on
+
 - ![.NET Core](https://img.shields.io/badge/.NET%20Core-purple?style=plastic&logo=dotnet)  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)
 

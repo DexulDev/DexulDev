@@ -15,7 +15,7 @@
 - 🔉 **I'm trying to get more active.**  
 - 👨🏻‍💻 **Laravel enjoyer.**  
 - 🧠 **I like to propose brilliant, effective, and creative solutions.**  
-- 🌐 **Languages: ENG/ESP/FR.**  
+- 🌐 **ENG/ESP/FR.**  
 - 📍 **Oaxaca, México.**
 <br>
 
@@ -28,7 +28,7 @@
 
 ---
   
-## Languages and Tools
+## Technologies and Tools
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="22px" alt="Laravel"/>  

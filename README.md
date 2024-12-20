@@ -40,7 +40,7 @@
 
 ## What I am currently learning / improving on
 
-- ![.NET Core](https://img.shields.io/badge/.NET%20Core-purple?style=plastic&logo=dotnet)  
+- ![.NET Core](https://img.shields.io/badge/EntityFramework%20-purple?style=plastic&logo=dotnet)  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)
 
 ---

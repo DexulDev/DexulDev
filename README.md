@@ -6,7 +6,6 @@
 
 ### ⚡ About Me
 - 🎂 **17 years old.**  
-- 🔉 **I'm trying to get more active.**  
 - 👨🏻‍💻 **Laravel enjoyer.**  
 - 🧠 **I like to propose brilliant, effective, and creative solutions.**  
 - 🌐 **ENG/ESP/FR.**  

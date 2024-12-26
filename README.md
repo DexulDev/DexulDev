@@ -7,9 +7,9 @@
 ## 🔍 Where to find me
 
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/luis-eduardo-lopez-cruz)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://linkedin.com/in/luis-eduardo-lópez-cruz-766224333)
 &nbsp;
-[<img src="https://img.shields.io/badge/Portfolio-282C34?logo=codementor&logoColor=FFD700" alt="Portfolio logo" title="Portfolio" height="25" />](https://dexuldev.github.io/)
+[<img src="https://img.shields.io/badge/Portfolio-282C34?logo=codementor&logoColor=0077B5" alt="Portfolio logo" title="Portfolio" height="25" />](https://dexul.me)
 
 
 ### ⚡ About Me

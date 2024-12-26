@@ -1,8 +1,16 @@
 # Hi, I’m DexulDev! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=dexuldev&color=brightgreen)
 
-## An enthusiast Backend Developer📖🚀
+## An enthusiast Backend Web Developer📖🚀
 
-#### @Unillantas Backend Developer
+#### @Unillantas Backend Web Developer
+
+## 🔍 Where to find me
+
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/luis-eduardo-lopez-cruz)
+&nbsp;
+[<img src="https://img.shields.io/badge/Portfolio-282C34?logo=codementor&logoColor=FFD700" alt="Portfolio logo" title="Portfolio" height="25" />](https://dexuldev.github.io/)
+
 
 ### ⚡ About Me
 - 🎂 **17 years old.**  
@@ -45,3 +53,7 @@
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dexuldev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+---
+
+

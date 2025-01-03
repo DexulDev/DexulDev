@@ -50,6 +50,7 @@
 
 - ![.NET Core](https://img.shields.io/badge/EntityFramework%20-purple?style=plastic&logo=dotnet)  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)
+- ![Neovim](https://img.shields.io/badge/Nvim-darkgreen?style=plastic&logo=Neovim)
 
 ---
 

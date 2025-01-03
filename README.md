@@ -49,7 +49,7 @@
 ## What I am currently learning / improving on
 
 - ![.NET Core](https://img.shields.io/badge/EntityFramework%20-purple?style=plastic&logo=dotnet)  
-- ![Laravel](https://img.shields.io/badge/Excel-Exports%20-CC99FF?style=plastic&logo=laravel&labelColor=lavender)  
+- ![Laravel](https://img.shields.io/badge/Excel-Exports%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)
 - ![Neovim](https://img.shields.io/badge/Nvim-darkgreen?style=plastic&logo=Neovim)
 

@@ -49,9 +49,8 @@
 ## What I am currently learning / improving on
 
 - ![.NET Core](https://img.shields.io/badge/EntityFramework%20-purple?style=plastic&logo=dotnet)  
-- ![Laravel](https://img.shields.io/badge/Excel-Exports%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=PostgreSQL)
-- ![Neovim](https://img.shields.io/badge/Nvim-darkgreen?style=plastic&logo=Neovim)
+- ![Laravel](https://img.shields.io/badge/WebSockets(again)%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Using_Docker-white?style=plastic&logo=PostgreSQL)
 
 ---
 

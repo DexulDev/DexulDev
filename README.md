@@ -49,7 +49,7 @@
 ## What I am currently learning / improving on
 
 - ![Laravel](https://img.shields.io/badge/OAuth_(Socialite)%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
-- ![AWS](https://img.shields.io/badge/AWS%20Lambda-%23232F3E?logo=amazon)
+- ![AWS](https://img.shields.io/badge/AWS%20Lambda-%23232F3E?logo=awslambda)
 
 ---
 

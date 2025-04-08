@@ -48,9 +48,8 @@
 
 ## What I am currently learning / improving on
 
-- ![.NET Core](https://img.shields.io/badge/EntityFramework%20-purple?style=plastic&logo=dotnet)  
 - ![Laravel](https://img.shields.io/badge/OAuth_(Socialite)%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Using_Docker-white?style=plastic&logo=PostgreSQL)
+- ![AWS](https://img.shields.io/badge/AWS%20Lambda-%23232F3E?logo=amazon)
 
 ---
 

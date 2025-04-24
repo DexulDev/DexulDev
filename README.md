@@ -29,6 +29,7 @@
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="22px" alt="Laravel"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="26px" alt="PHP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="26px" alt=".NET"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175241.png" width="26px" alt="C#"/>
   <img src="https://img.icons8.com/fluent/512/docker.png" width="20px" alt="Docker"/>
   <img src="https://static-00.iconduck.com/assets.00/compute-awslambda-lambdafunction-icon-1969x2048-g8otbk0t.png" width="20px" alt="AWS Lambda"/>

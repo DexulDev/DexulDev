@@ -45,6 +45,7 @@
   <img src="https://img.icons8.com/m_rounded/512/FFFFFF/github.png" width="26px" alt="GitHub"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="24px" alt="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="20px" alt="NVim"/>
+  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x512-cd119aop.png" width="20px" alt="PHPStorm"/>
 </p>
 
 ---

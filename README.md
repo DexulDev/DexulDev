@@ -52,7 +52,7 @@
 
 ## What I am currently learning / improving on
 
-- ![Laravel](https://img.shields.io/badge/OAuth_(Socialite)%20-darkred?style=plastic&logo=laravel&labelColor=lavender)  
+- ![.NET](https://img.shields.io/badge/ASP.NET%20|%20.NET-512BD4?logo=dotnet&logoColor=white&labelColor=000000)
 - ![AWS](https://img.shields.io/badge/AWS%20Lambda-%23232F3E?logo=awslambda)
 
 ---

@@ -36,7 +36,7 @@
 
 ```yaml
 Name: Luis Eduardo López
-Age: 17
+Age: 18
 Role: Backend Developer
 Location: Oaxaca, México 🇲🇽
 Languages: English | Español

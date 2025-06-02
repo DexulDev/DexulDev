@@ -1,64 +1,171 @@
-# Hi, I’m DexulDev! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=dexuldev&color=brightgreen)
+# Hi there, I'm DexulDev! 👋 
 
-## An enthusiast Backend Web Developer📖🚀
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=dexuldev&color=383332&style=for-the-badge&label=PROFILE+VIEWS)
 
-#### @Unillantas Backend Web Developer
+</div>
 
-## 🔍 Where to find me
+## 🚀 Backend Developer
 
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://linkedin.com/in/luis-eduardo-lopez/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Portfolio-282C34?logo=codementor&logoColor=0077B5" alt="Portfolio logo" title="Portfolio" height="25" />](https://dexul.me)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9c9897&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Code+Architect+%F0%9F%8F%97%EF%B8%8F;API+Builder+%F0%9F%94%97)](https://git.io/typing-svg)
 
-
-### ⚡ About Me
-- 🎂 **17 years old.**  
-- 👨🏻‍💻 **Laravel enjoyer.**  
-- 🧠 **I like to propose brilliant, effective, and creative solutions.**  
-- 🌐 **ENG/ESP.**  
-- 📍 **Oaxaca, México.**
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dexuldev&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats" />
+</div>
 
 ---
 
-## 🛠️ Technologies and Tools
+## 🌐 Connect With Me
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="22px" alt="Laravel"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="26px" alt="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" width="26px" alt=".NET"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175241.png" width="26px" alt="C#"/>
-  <img src="https://img.icons8.com/fluent/512/docker.png" width="20px" alt="Docker"/>
-  <img src="https://static-00.iconduck.com/assets.00/compute-awslambda-lambdafunction-icon-1969x2048-g8otbk0t.png" width="20px" alt="AWS Lambda"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="26px" alt=".NET"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="26px" alt="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="26px" alt="JavaScript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="26px" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="26px" alt="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="26px" alt="HTML5"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" width="26px" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px" alt="Git"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="26px" alt="GitLab"/>
-  <img src="https://img.icons8.com/m_rounded/512/FFFFFF/github.png" width="26px" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="24px" alt="VSCode"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="20px" alt="NVim"/>
-  <img src="https://static-00.iconduck.com/assets.00/phpstorm-icon-512x512-cd119aop.png" width="20px" alt="PHPStorm"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-eduardo-lopez/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-383332?style=for-the-badge&logo=firefox&logoColor=white)](https://dexul.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dexul.me)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+Name: Luis Eduardo López
+Age: 17
+Role: Backend Developer
+Location: Oaxaca, México 🇲🇽
+Languages: English | Español
+Status: Building the future, one API at a time
+```
+
+</td>
+<td width="50%">
+
+### 🎯 What drives me:
+- 🧠 **Creative Problem Solving**
+- 🏗️ **Scalable Architecture Design**
+- 🚀 **Performance Optimization**
+- 📚 **Continuous Learning**
+- 🌟 **Clean Code Advocate**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PhpStorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PhpStorm" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-## What I am currently learning / improving on
+## 📚 Currently Learning & Improving
 
-- ![.NET](https://img.shields.io/badge/ASP.NET%20|%20.NET-512BD4?logo=dotnet&logoColor=white&labelColor=000000)
-- ![AWS](https://img.shields.io/badge/AWS%20Lambda-%23232F3E?logo=awslambda)
+<div align="center">
+
+| Technology | Progress | Focus Area |
+|------------|----------|------------|
+| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | 🔥🔥🔥⚪⚪ | Web APIs & Microservices |
+| ![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) | 🔥🔥🔥🔥⚪ | Serverless Architecture |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 🔥🔥🔥⚪⚪ | Containerization & Orchestration |
+
+</div>
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dexuldev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=dexuldev&show_icons=true&theme=radical&hide_border=true&bg_color=383332&title_color=060606&icon_color=9c9897&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=dexuldev&theme=radical&hide_border=true&background=383332&stroke=9C9897&ring=9C9897&fire=9C9897&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+
+</div>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexuldev&layout=compact&theme=radical&hide_border=true&bg_color=383332&title_color=060606&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
+## 🏆 GitHub Achievements
 
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dexuldev&theme=darkhub&bg=666666)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+**Looking for exciting backend projects or collaboration opportunities?**
+
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-2a2625?style=for-the-badge&logo=handshake&logoColor=white)](https://dexul.me)
+
+*"Talk is cheap. Show me the code."* ✨
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/dexuldev/dexuldev/blob/output/github-contribution-grid-snake.svg)
+
+**Thanks for visiting my profile!** 🙏
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2a2625&height=120&section=footer)
+
+</div>

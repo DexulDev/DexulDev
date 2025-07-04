@@ -95,8 +95,10 @@ Status: Building the future, one API at a time
 | Technology | Progress | Focus Area |
 |------------|----------|------------|
 | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | 🔥🔥🔥⚪⚪ | Web APIs & Microservices |
-| ![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) | 🔥🔥🔥🔥⚪ | Serverless Architecture |
+| ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) | 🔥🔥🔥🔥⚪ | Serverless Architecture |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | 🔥🔥🔥⚪⚪ | Containerization & Orchestration |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | 🔥🔥⚪⚪⚪ | Systems Programming & Performance |
+
 
 </div>
 

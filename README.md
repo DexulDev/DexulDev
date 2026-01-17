@@ -21,7 +21,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-eduardo-lopez/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-383332?style=for-the-badge&logo=firefox&logoColor=white)](https://dexul.me) --->
+[![Portfolio](https://img.shields.io/badge/Portfolio-383332?style=for-the-badge&logo=firefox&logoColor=white)](about:blank)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dexul.me)
 
 </div>

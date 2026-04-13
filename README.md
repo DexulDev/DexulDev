@@ -35,7 +35,7 @@
 <td width="50%">
 
 ```yaml
-Name: Luis Eduardo López
+Eduu
 Age: 18
 Role: Backend Developer
 Location: Oaxaca, México

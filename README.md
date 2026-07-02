@@ -1,4 +1,4 @@
-# Hi there, I'm DexulDev! 👋 
+# Hi there, I'm Dexul! 👋 
 
 <div align="center">
   
